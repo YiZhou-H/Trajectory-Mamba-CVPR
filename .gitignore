@@ -1,0 +1,20 @@
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+._*
+
+# macOS system folders
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Temporary files created by macOS
+*.swp
+*.swo
+
+# PyCharm
+.idea
