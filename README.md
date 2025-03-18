@@ -60,7 +60,7 @@ If you find this work useful, please cite:
 @article{huang2024trajectory,
   title={Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM},
   author={Huang, Yizhou and Cheng, Yihua and Wang, Kezhi},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2503.10898},
   year={2024}
 }
 ```
